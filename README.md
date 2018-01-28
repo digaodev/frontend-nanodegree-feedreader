@@ -8,6 +8,9 @@ Testing is an important part of the development process and many organizations p
 
 Whether you work in an organization that uses test-driven development or in an organization that uses tests to make sure future feature development doesn't break existing features, it's an important skill to have!
 
+## How to run the project
+The games has no dependencies. If you want to run it locally, just clone or download it and open the index.html file in your browser. The page will load the Jasmine tests for the feedreader at the bottom of the page.
+
 ## What was done
 
 The challenge was to write tests against an existing codebase for a FeedReader app. Tests were done using Jasmine and they checked the business logic, event handling and DOM manipulation.
